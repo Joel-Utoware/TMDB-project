@@ -1,1 +1,1 @@
-This Project was done for Digital Futures in order to analyese a dataset to find insights/key-points and create visulisations.
+This Project was done for Digital Futures in order to perform Exploratory Data Analysis and draw insights from a small, but comprehensive movie data.
